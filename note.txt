@@ -1,0 +1,9 @@
+- project initialised with npm init -y
+- installed  packages are:- 
+    express dotenv bcryptjs cookie-parser cors jsonwebtoken mongoose morgan;
+- installed dev dependencies are:
+    -D nodemon eslint 
+- Eslint set-up:
+    npm init @eslint/config
+- To start the prgram use:
+    npm run dev
